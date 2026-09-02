@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stats Card (Replace 'your-username' with your actual GitHub account username) -->
+  <!-- Stats Card (Replace 'MR.Senior' with your actual GitHub account username) -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <!-- Top Languages Card -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
